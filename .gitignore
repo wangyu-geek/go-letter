@@ -1,0 +1,8 @@
+.idea
+conf/*.local.conf
+*.tmp
+*.log
+*.exe
+tts_cache/*.wav
+tts_cache/*.mp3
+lastupdate.tmp
